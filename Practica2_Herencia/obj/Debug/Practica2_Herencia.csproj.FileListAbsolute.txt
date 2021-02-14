@@ -1,0 +1,11 @@
+D:\Escritorio\UNIVERSIDAD\2do Cuatri\Programacion Orientada a Objetos\c#\Practica2_Herencia\bin\Debug\Practica2_Herencia.exe.config
+D:\Escritorio\UNIVERSIDAD\2do Cuatri\Programacion Orientada a Objetos\c#\Practica2_Herencia\bin\Debug\Practica2_Herencia.exe
+D:\Escritorio\UNIVERSIDAD\2do Cuatri\Programacion Orientada a Objetos\c#\Practica2_Herencia\bin\Debug\Practica2_Herencia.pdb
+D:\Escritorio\UNIVERSIDAD\2do Cuatri\Programacion Orientada a Objetos\c#\Practica2_Herencia\obj\Debug\Practica2_Herencia.csprojAssemblyReference.cache
+D:\Escritorio\UNIVERSIDAD\2do Cuatri\Programacion Orientada a Objetos\c#\Practica2_Herencia\obj\Debug\Practica2_Herencia.Pagina_principal.resources
+D:\Escritorio\UNIVERSIDAD\2do Cuatri\Programacion Orientada a Objetos\c#\Practica2_Herencia\obj\Debug\Practica2_Herencia.Properties.Resources.resources
+D:\Escritorio\UNIVERSIDAD\2do Cuatri\Programacion Orientada a Objetos\c#\Practica2_Herencia\obj\Debug\Practica2_Herencia.csproj.GenerateResource.cache
+D:\Escritorio\UNIVERSIDAD\2do Cuatri\Programacion Orientada a Objetos\c#\Practica2_Herencia\obj\Debug\Practica2_Herencia.csproj.CoreCompileInputs.cache
+D:\Escritorio\UNIVERSIDAD\2do Cuatri\Programacion Orientada a Objetos\c#\Practica2_Herencia\obj\Debug\Practica2_Herencia.exe
+D:\Escritorio\UNIVERSIDAD\2do Cuatri\Programacion Orientada a Objetos\c#\Practica2_Herencia\obj\Debug\Practica2_Herencia.pdb
+D:\Escritorio\UNIVERSIDAD\2do Cuatri\Programacion Orientada a Objetos\c#\Practica2_Herencia\obj\Debug\Practica2_Herencia.Madre.resources
